@@ -416,6 +416,9 @@ _*
 pjs
 **/*copy*
 templates2
+req
 
 !.gitignore
+!requirements.txt
+!README.md
 
